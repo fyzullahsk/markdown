@@ -1,3 +1,4 @@
+
 # markdown
 # Heading1
 ## Heading2
@@ -52,3 +53,16 @@ GMAIL (https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 |----|-------|------|
 |FYZU|VRSEC|IT|
 |SHAIK|VRSEC|IT|
+
+~~STRIKED TEXT~~
+
+- [x] CHECKBOX
+- [ ] ONE
+    - [ ]   one a
+    - [ ]   one b
+
+*** code ***
+```python
+def hi():
+  print("hello world")
+```
